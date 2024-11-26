@@ -12,12 +12,12 @@
     "Parameters": {
       "Bool": [
         {
-          "Name": "RedTeam",
+          "Name": "TestTeam",
           "DisplayName": "Teams/Red",
           "Default": true
         },
         {
-          "Name": "BlueTeam",
+          "Name": "TestXTeam",
           "DisplayName": "Teams/Blue",
           "Default": true
         }
