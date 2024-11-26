@@ -3,7 +3,7 @@ import * as peace from './options.js';
 import * as teams from './default_teams.js';
 
 // разрешения
-Damage.FriendlyFire = false;
+Damage.FriendlyFire = true;
 BreackGraph.OnlyPlayerBlocksDmg = false;
 BreackGraph.WeakBlocks = true;
 // делаем возможным ломать все блоки
