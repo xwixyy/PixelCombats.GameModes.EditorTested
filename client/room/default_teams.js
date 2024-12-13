@@ -1,9 +1,9 @@
 import { Color } from 'pixel_combats/basic';
 import { Teams } from 'pixel_combats/room';
 
-export const RED_TEAM_NAME = "ТРЕНИРОВКА";
+export const RED_TEAM_NAME = "ТРЕНИРОВКА1";
 export const BLUE_TEAM_NAME = "ТРЕНИРОВКА";
-export const RED_TEAM_DISPLAY_NAME = "ТРЕНИРОВКА";
+export const RED_TEAM_DISPLAY_NAME = "ТРЕНИРОВКА1";
 export const BLUE_TEAM_DISPLAY_NAME = "ТРЕНИРОВКА";
 export const BLUE_TEAM_SPAWN_POINTS_GROUP = 1;
 export const RED_TEAM_SPAWN_POINTS_GROUP = 2;
