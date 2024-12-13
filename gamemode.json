@@ -12,13 +12,13 @@
     "Parameters": {
       "Bool": [
         {
-          "Name": "ТРЕНИРОВКА1",
-          "DisplayName": "ТРЕНИРОВКА1",
+          "Name": "TPEHUPOBKA",
+          "DisplayName": "TPEHUPOBKA1",
           "Default": true
         },
         {
-          "Name": "ТРЕНИРОВКА",
-          "DisplayName": "ТРЕНИРОВКА",
+          "Name": "TPEHUROBKA",
+          "DisplayName": "TPEHUPOBKA",
           "Default": true
         }
       ]
