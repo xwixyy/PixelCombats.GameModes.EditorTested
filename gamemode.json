@@ -13,7 +13,7 @@
       "Bool": [
         {
           "Name": "Default1Team",
-          "DisplayName": Красный",
+          "DisplayName": "Красный",
           "Default": true
         },
         {
