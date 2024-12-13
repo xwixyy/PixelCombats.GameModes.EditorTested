@@ -12,8 +12,8 @@
     "Parameters": {
       "Bool": [
         {
-          "Name": "DefaultTeam",
-          "DisplayName": "Teams/Default",
+          "Name": "Default1Team",
+          "DisplayName": "Teams/Default1",
           "Default": true
         },
         {
