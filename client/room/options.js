@@ -1,6 +1,6 @@
 import { Build, Inventory } from 'pixel_combats/room';
 
-// разрешаем все что можно для редактора
+// Права на орудие. 
 export function set_editor_inventory() {
     var roomInventory = Inventory.GetContext();
     roomInventory.MainInfinity.Value = true;
@@ -10,3 +10,4 @@ export function set_editor_inventory() {
 
 }
    Build.GetContext().FlyEnable.Value = true;
+// Права на орудия по ID + Дополнительные вещи
