@@ -21,8 +21,8 @@ Damage.GetContext().DamageOut.Value = false;
 // параметры игры
 Properties.GetContext().GameModeName.Value = "GameModes/EDITOR";
 // создаем команды
-var red = GameMode.Parameters.GetBool("TestTeam");
-var blue = GameMode.Parameters.GetBool("TestXTeam");
+var red = GameMode.Parameters.GetBool("Default1Team");
+var blue = GameMode.Parameters.GetBool("DefaultTeam");
 if (red || !red && !blue) teams.create_team_red();
 if (blue || !red && !blue) teams.create_team_blue();
 
