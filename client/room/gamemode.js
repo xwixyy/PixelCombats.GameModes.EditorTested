@@ -15,8 +15,8 @@ Build.GetContext().BlocksSet.Value = BuildBlocksSet.AllClear;
 // вкл строительные опции
 peace.set_editor_options();
 
-// запрет нанесения урона
-Damage.GetContext().DamageOut.Value = false;
+// Добавляем урон в тренеровку
+Damage.GetContext().DamageOut.Value = true;
 
 // параметры игры
 Properties.GetContext().GameModeName.Value = "GameModes/EDITOR";
